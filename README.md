@@ -23,12 +23,12 @@ $ docker build -t irssi IRC_Analysis_TRS_UDP/Cliente/
 ## Uso
 Crear un contenedor con la imagen del servidor:
 ```sh
-$ docker run -it -p 6667:6667 --name servidorirc inspircd
+$ docker run -it -p 6667:6667 --name servidorIRC inspircd
 ```
 
 Crear un contenedor con la imagen del cliente:
 ```sh
-$ docker run -it --name clienteirc irssi
+$ docker run -it --name clienteIRC irssi
 ```
 
 
