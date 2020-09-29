@@ -34,4 +34,5 @@ $ docker run -it --name clienteirc irssi
 
 ## Video capturando trafico generado entre el servidor y cliente
 
-https://www.youtube.com/embed/LIOw5wZKxmw"
+[![Watch the video](https://img.youtube.com/vi/LIOw5wZKxmw/maxresdefault.jpg)](https://youtu.be/LIOw5wZKxmw)
+
